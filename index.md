@@ -2,7 +2,7 @@
 ## A Detailed review of cosmic watch app
 * For those who have religiously clapped for every space-shuttle lift-off and who ran to balcony to spot jupiter chasing mars, then
 I am sure that cosmic watch is a real treat for them.
-**The Cosmic Watch is an interactive 3D tool.**
+* **The Cosmic Watch is an interactive 3D tool.**
 * It's a realtime worldclock, *time travel machine, astrolab, antikythera mechanism, 
 armillary sphere, astral-chart generator.*
 > A perfect introduction to basic astronomy. 
@@ -20,11 +20,11 @@ armillary sphere, astral-chart generator.*
 >Since there is no horizontal orientation in relative layout
  > - https://stackoverflow.com/questions/20458542/how-to-set-androidorientation-horizontal-programmatically-in-relativelayout
 ###### NOTED FEATURES IN THE APP:
->There are several modes like Clock Mode,the Astrology Mode, Astronomy Mode and the Solar System mode.
->There is also a search bar inorder to search for the locations
->It also contains star feature which can be used to save upto three favorite locations.
->An anchor option to switch between views
->The bottom of the app contains a clock by which you can rewind and fast forward time, and this allows you to see the different positions planets will be in, as well as sunset and sunrise times, and constellations.
+* >There are several modes like Clock Mode,the Astrology Mode, Astronomy Mode and the Solar System mode.
+* >There is also a search bar inorder to search for the locations
+* >It also contains star feature which can be used to save upto three favorite locations.
+* >An anchor option to switch between views
+* >The bottom of the app contains a clock by which you can rewind and fast forward time, and this allows you to see the different          positions planets will be in, as well as sunset and sunrise times, and constellations.
 ###### HOW IT CAN BE ACHIEVED:
 **Basically the cosmic watch works on an algorithm called Astronomical Algorithms of *Jean Meeus*.**
  >This algorithms have an astonishing precision which should be accurate enough for the next thousand years.
