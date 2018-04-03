@@ -8,7 +8,7 @@ armillary sphere, astral-chart generator.*
 > A perfect introduction to basic astronomy. 
 > But in my point of view it doesnot give any other information about asteroids,comet,galaxies,blackholes,nebula and so on.
 > But it will be more interesting if you are a newbie.
-* <img src="http://cosmic-watch.com/wp-content/uploads/2015/05/cosmic_watch_tutorial_11-960x600.jpg"
+![alt text](http://cosmic-watch.com/wp-content/uploads/2015/05/cosmic_watch_tutorial_11-960x600.jpg)
 ### ABOUT THAT APPLICATION:
 #### Permissions needed:
 * The app requests permission to access the users location and its starts everytime only from the users location.
