@@ -14,8 +14,8 @@ armillary sphere, astral-chart generator.*
 #### Permissions needed:
 > * The app requests permission to access the users location and its starts everytime only from the users location.
 > * The link to how do android apps access the users location is:
-   - https://developer.android.com/guide/topics/location/index.html#location
-   - http://blog.teamtreehouse.com/beginners-guide-location-android
+  > - https://developer.android.com/guide/topics/location/index.html#location
+  > - http://blog.teamtreehouse.com/beginners-guide-location-android
 
 ##### ASSUMED LAYOUT USAGE:
 **linear layout**
