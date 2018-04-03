@@ -9,22 +9,26 @@ armillary sphere, astral-chart generator.*
 > But in my point of view it doesnot give any other information about asteroids,comet,galaxies,blackholes,nebula and so on.
 > But it will be more interesting if you are a newbie.
 ![alt text](http://cosmic-watch.com/wp-content/uploads/2015/05/cosmic_watch_tutorial_11-960x600.jpg)
-### ABOUT THAT APPLICATION:
+
+### ABOUT THE APPLICATION:
 #### Permissions needed:
-* The app requests permission to access the users location and its starts everytime only from the users location.
-* The link to how do android apps access the users location is:
+> * The app requests permission to access the users location and its starts everytime only from the users location.
+> * The link to how do android apps access the users location is:
    - https://developer.android.com/guide/topics/location/index.html#location
    - http://blog.teamtreehouse.com/beginners-guide-location-android
+
 ##### ASSUMED LAYOUT USAGE:
 **linear layout**
 >Since there is no horizontal orientation in relative layout
  > - https://stackoverflow.com/questions/20458542/how-to-set-androidorientation-horizontal-programmatically-in-relativelayout
+
 ###### NOTED FEATURES IN THE APP:
 * >There are several modes like Clock Mode,the Astrology Mode, Astronomy Mode and the Solar System mode.
 * >There is also a search bar inorder to search for the locations
 * >It also contains star feature which can be used to save upto three favorite locations.
 * >An anchor option to switch between views
 * >The bottom of the app contains a clock by which you can rewind and fast forward time, and this allows you to see the different          positions planets will be in, as well as sunset and sunrise times, and constellations.
+
 ###### HOW IT CAN BE ACHIEVED:
 **Basically the cosmic watch works on an algorithm called Astronomical Algorithms of *Jean Meeus*.**
  >This algorithms have an astonishing precision which should be accurate enough for the next thousand years.
