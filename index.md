@@ -37,9 +37,9 @@ armillary sphere, astral-chart generator.*
    > - Github link:https://github.com/soniakeys/meeus
 * **How to built API for space apps:**
 >Refer these sites to grasp knowledge about space API:
- > - https://api.nasa.gov/api.html
- > - https://www.programmableweb.com/category/solar/api
- > - http://apievangelist.com/
+  > - https://api.nasa.gov/api.html
+  > - https://www.programmableweb.com/category/solar/api
+  > - http://apievangelist.com/
 * **How to achieve 3D UI:**
   * The 3D UI can be achieved by using openGL ES
   * If you wanted to hand-code it, you would just create a GLSurfaceView, and draw objects into it.
