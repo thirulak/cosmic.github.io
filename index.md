@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# COSMIC WATCH
+## A Detailed review of cosmic watch app
+* For those who have religiously clapped for every space-shuttle lift-off and who ran to balcony to spot jupiter chasing mars, then
+I am sure that cosmic watch is a real treat for them.
+**The Cosmic Watch is an interactive 3D tool.**
+* It's a realtime worldclock, *time travel machine, astrolab, antikythera mechanism, 
+armillary sphere, astral-chart generator.*
+> A perfect introduction to basic astronomy. 
+> But in my point of view it doesnot give any other information about asteroids,comet,galaxies,blackholes,nebula and so on.
+> But it will be more interesting if you are a newbie.
+### ABOUT THAT APPLICATION:
+#### Permissions needed:
+* The app requests permission to access the users location and its starts everytime only from the users location.
+* The link to how do android apps access the users location is:
+   - https://developer.android.com/guide/topics/location/index.html#location
+   - http://blog.teamtreehouse.com/beginners-guide-location-android
+##### ASSUMED LAYOUT USAGE:
+**linear layout**
+>Since there is no horizontal orientation in relative layout
+ - https://stackoverflow.com/questions/20458542/how-to-set-androidorientation-horizontal-programmatically-in-relativelayout
+###### NOTED FEATURES IN THE APP:
+>There are several modes like Clock Mode,the Astrology Mode, Astronomy Mode and the Solar System mode.
+>There is also a search bar inorder to search for the locations
+>It also contains star feature which can be used to save upto three favorite locations.
+>An anchor option to switch between views
+>The bottom of the app contains a clock by which you can rewind and fast forward time, and this allows you to see the different positions planets will be in, as well as sunset and sunrise times, and constellations.
+###### HOW IT CAN BE ACHIEVED:
+**Basically the cosmic watch works on an algorithm called Astronomical Algorithms of *Jean Meeus*.**
+ >This algorithms have an astonishing precision which should be accurate enough for the next thousand years.
+   - Github link:https://github.com/soniakeys/meeus
+* **How to built API for space apps:**
+>Refer these sites to grasp knowledge about space API:
+ - https://api.nasa.gov/api.html
+ - https://www.programmableweb.com/category/solar/api
+ - http://apievangelist.com/
+* **How to achieve 3D UI:**
+* The 3D UI can be achieved by using openGL ES
+* If you wanted to hand-code it, you would just create a GLSurfaceView, and draw objects into it.
+* But, you would never hand-code it in real life. To make even a simple 3D game, you would want to use a game engine like Unity3D or jPCT-AE.
+  - https://www.codeproject.com/Articles/825700/Beginners-Guide-to-Android-Animation-Graphics
+  - https://developer.android.com/training/graphics/opengl/index.html
+  - http://www.jpct.net/jpct-ae/
 
-You can use the [editor on GitHub](https://github.com/thirulak/cosmic.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thirulak/cosmic.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
