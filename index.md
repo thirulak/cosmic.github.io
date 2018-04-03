@@ -8,6 +8,7 @@ armillary sphere, astral-chart generator.*
 > A perfect introduction to basic astronomy. 
 > But in my point of view it doesnot give any other information about asteroids,comet,galaxies,blackholes,nebula and so on.
 > But it will be more interesting if you are a newbie.
+
 ![alt text](http://cosmic-watch.com/wp-content/uploads/2015/05/cosmic_watch_tutorial_11-960x600.jpg)
 
 ### ABOUT THE APPLICATION:
@@ -21,6 +22,7 @@ armillary sphere, astral-chart generator.*
 **linear layout**
 >Since there is no horizontal orientation in relative layout
  > - https://stackoverflow.com/questions/20458542/how-to-set-androidorientation-horizontal-programmatically-in-relativelayout
+
 
 ###### NOTED FEATURES IN THE APP:
 * >There are several modes like Clock Mode,the Astrology Mode, Astronomy Mode and the Solar System mode.
