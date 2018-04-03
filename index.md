@@ -13,14 +13,14 @@ armillary sphere, astral-chart generator.*
 
 ### ABOUT THE APPLICATION:
 #### Permissions needed:
-> * The app requests permission to access the users location and its starts everytime only from the users location.
-> * The link to how do android apps access the users location is:
-  > - https://developer.android.com/guide/topics/location/index.html#location
-  > - http://blog.teamtreehouse.com/beginners-guide-location-android
+ > * The app requests permission to access the users location and its starts everytime only from the users location.
+ > * The link to how do android apps access the users location is:
+   > - https://developer.android.com/guide/topics/location/index.html#location
+   > - http://blog.teamtreehouse.com/beginners-guide-location-android
 
 ##### ASSUMED LAYOUT USAGE:
 **linear layout**
->Since there is no horizontal orientation in relative layout
+> Since there is no horizontal orientation in relative layout
  > - https://stackoverflow.com/questions/20458542/how-to-set-androidorientation-horizontal-programmatically-in-relativelayout
 
 
